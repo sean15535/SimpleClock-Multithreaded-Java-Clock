@@ -105,7 +105,8 @@ javac -version
 Clone or download the repository:
 
 ``` bash
-git clone https://github.com/your-username/simpleclock.git
+git clone https://github.com/sean15535/SimpleClock-Multithreaded-Java-Clock
+
 cd simpleclock
 ```
 
@@ -181,6 +182,8 @@ programming practice - Portfolio demonstrations
 
 **Alli Oluwaseun**\
 Software Developer \| Java Enthusiast
+(Lin[kedIn](https://www.linkedin.com/in/oluwaseun-alli-aa4a812ba/))
+
 
 This project was developed as part of a practical demonstration of Java
 multithreading, concurrency control, and thread lifecycle management.
